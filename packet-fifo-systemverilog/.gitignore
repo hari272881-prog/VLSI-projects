@@ -1,0 +1,15 @@
+# Simulator output
+*.vvp
+*.vcd
+*.wdb
+*.jou
+*.log
+xsim.dir/
+.Xil/
+
+# Vivado generated project data
+*.cache/
+*.runs/
+*.sim/
+*.hw/
+*.ip_user_files/
